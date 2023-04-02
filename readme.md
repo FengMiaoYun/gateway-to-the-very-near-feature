@@ -1,7 +1,6 @@
 # 一个结合人机交互，可穿戴设备，人工智能，虚拟现实的工程尝试
 
->version2 update:
->增添了整个系统的部分
+>version2 update:增添了整个系统的部分
 
 ## 可穿戴设备
 
@@ -48,10 +47,17 @@
 ## 致谢
 
 [wukong-robot](https://github.com/wzpan/wukong-robot "一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力")
+
 [Python-100-Days](https://github.com/jackfrued/Python-100-Days "Python - 100天从新手到大师")
+
 [Relativty](https://github.com/relativty/Relativty "An open source VR headset with SteamVR supports for $200")
+
 [ElectronBot](https://github.com/peng-zhihui/ElectronBot "一个桌面级小机器工具人")
+
 [growth-in-action](https://github.com/phodal/growth-in-action "全栈增长工程师实战")
+
 [jarvis](https://github.com/edisonwong520/jarvis "An intelligent assistant based voice control on Mac OS.中文版贾维斯Jarvis语音助手(电脑版Siri)")
+
 [Cubli_Mini](https://github.com/ZhaJiHu/Cubli_Mini "源于苏黎世联邦理工学院的Cubli")
+
 [Unity-MIDI_Piano](https://github.com/catdevpete/Unity-MIDI-Piano "3D Piano in Unity that can playback MIDI file songs")
